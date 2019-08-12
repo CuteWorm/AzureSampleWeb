@@ -1,0 +1,14 @@
+D:\_Projects\AzureSampleWeb\AzureSimpleWeb\bin\Debug\netcoreapp2.2\AzureSimpleWeb.deps.json
+D:\_Projects\AzureSampleWeb\AzureSimpleWeb\bin\Debug\netcoreapp2.2\AzureSimpleWeb.runtimeconfig.json
+D:\_Projects\AzureSampleWeb\AzureSimpleWeb\bin\Debug\netcoreapp2.2\AzureSimpleWeb.runtimeconfig.dev.json
+D:\_Projects\AzureSampleWeb\AzureSimpleWeb\bin\Debug\netcoreapp2.2\AzureSimpleWeb.dll
+D:\_Projects\AzureSampleWeb\AzureSimpleWeb\bin\Debug\netcoreapp2.2\AzureSimpleWeb.pdb
+D:\_Projects\AzureSampleWeb\AzureSimpleWeb\obj\Debug\netcoreapp2.2\AzureSimpleWeb.csprojAssemblyReference.cache
+D:\_Projects\AzureSampleWeb\AzureSimpleWeb\obj\Debug\netcoreapp2.2\AzureSimpleWeb.csproj.CoreCompileInputs.cache
+D:\_Projects\AzureSampleWeb\AzureSimpleWeb\obj\Debug\netcoreapp2.2\AzureSimpleWeb.RazorAssemblyInfo.cache
+D:\_Projects\AzureSampleWeb\AzureSimpleWeb\obj\Debug\netcoreapp2.2\AzureSimpleWeb.RazorAssemblyInfo.cs
+D:\_Projects\AzureSampleWeb\AzureSimpleWeb\obj\Debug\netcoreapp2.2\AzureSimpleWeb.AssemblyInfoInputs.cache
+D:\_Projects\AzureSampleWeb\AzureSimpleWeb\obj\Debug\netcoreapp2.2\AzureSimpleWeb.AssemblyInfo.cs
+D:\_Projects\AzureSampleWeb\AzureSimpleWeb\obj\Debug\netcoreapp2.2\AzureSimpleWeb.RazorTargetAssemblyInfo.cache
+D:\_Projects\AzureSampleWeb\AzureSimpleWeb\obj\Debug\netcoreapp2.2\AzureSimpleWeb.dll
+D:\_Projects\AzureSampleWeb\AzureSimpleWeb\obj\Debug\netcoreapp2.2\AzureSimpleWeb.pdb

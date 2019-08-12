@@ -14,7 +14,7 @@ namespace AzureSimpleWeb.Controllers
         [HttpGet]
         public ActionResult<IEnumerable<string>> Get()
         {
-            return new string[] { "value1", "value2", "value3" };
+            return new string[] { "value1", "value2", "Nam just added this new value3" };
         }
 
         // GET api/values/5
